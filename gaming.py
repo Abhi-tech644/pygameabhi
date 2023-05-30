@@ -76,7 +76,6 @@ while running:
 
     screen.blit(dot, dot_loc)
     screen.blit(stick, stick_loc)
-    # apply changes
     pygame.display.update()
 
 
